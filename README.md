@@ -1,4 +1,4 @@
-# Air Quality Detection and Health Risk System
+# Air Quality Detection, Prediction and Health Risk System
 
 A full-stack application for air quality analysis with a React frontend and a Python (Flask + ML) backend.
 
